@@ -5,12 +5,15 @@
  * @package AjaxComments
  * @link http://www.byends.com
  * @author Byends Upgrade
- * @version 1.1.1
+ * @version 1.2.0
  * @oriAuthor willin(http://kan.willin.org/typecho/)
  *
  * 原作者是 willin (http://kan.willin.org/typecho/),请尊重版权
+ *
+ * 1.2.0 update by Byends at 2015-05-30
+ * 升级兼容 typecho 1.0，此次升级不向下兼容，typecho 1.0 以下版本请使用 AjaxComments 1.1.1
  * 
- * 1.1.1 update by Byends at 2014-001-21
+ * 1.1.1 update by Byends at 2014-01-21
  * 修复由于 jQuery $ 对象被某些插件二货制作者无故释放导致插件无法使用的BUG
  *
  * 1.1.0 update by Byends at 2012-07-13
